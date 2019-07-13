@@ -1,2 +1,2 @@
 # myCppCodes
-My solutions to some interesting programming problems.
+Programs written by me to solve interesting programming problems.
